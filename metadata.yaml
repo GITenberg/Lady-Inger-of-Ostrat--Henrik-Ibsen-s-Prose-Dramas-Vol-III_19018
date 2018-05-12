@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/861
     wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19018#Lady-Inger-of-Ostrat--Henrik-Ibsen-s-Prose-Dramas-Vol-III
 gutenberg_issued: '2006-08-10'
 gutenberg_type: Text
 identifiers:
