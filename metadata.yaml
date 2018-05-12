@@ -1,0 +1,35 @@
+_repo: Lady-Inger-of-Ostrat--Henrik-Ibsen-s-Prose-Dramas-Vol-III_19018
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Archer, Charles
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '4543'
+    url: http://www.gutenberg.org/2009/agents/4543
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Archer
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2006-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inger Ottesdater, -1555 -- Drama'
+- !lcc 'PT'
+title: 'Lady Inger of Ostrat: Henrik Ibsen''s Prose Dramas Vol III'
+url: http://www.gutenberg.org/ebooks/19018
